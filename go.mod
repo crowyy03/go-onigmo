@@ -1,4 +1,4 @@
-module github.com/crowyy03/go-oniguruma/v2
+module github.com/crowyy03/go-oniguruma/v2 
 
 go 1.14
 

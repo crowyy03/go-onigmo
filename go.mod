@@ -1,4 +1,4 @@
-module github.com/go-enry/go-onigmo
+module github.com/crowyy03/go-oniguruma/v2
 
 go 1.14
 
